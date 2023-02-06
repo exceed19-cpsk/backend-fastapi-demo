@@ -1,0 +1,26 @@
+- Introduction
+- Run Server
+- Path Params & type (extra datatype)
+- status code
+- Document
+- Order Matter
+- Query Params
+- Default
+- Union
+- Optional {
+	- Set default value
+	- (Typing) Optional
+	- (Typing) Union with None
+}
+
+- Request Body
+- Base Model (Pydantic)
+- Access value from model
+- Body()
+- Nested Model
+- Request body + path + query params
+
+- async (ถ้าเวลาเหลือเยอะ)
+- CRUD example
+- Project structure (ถ้าเวลาเหลือเยอะ)
+- meta (ถ้าเวลาเหลือเยอะ แต่ดูทรงแล้วไม่น่าทัน)
